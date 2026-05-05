@@ -442,7 +442,7 @@ function App() {
       <footer className="py-6 text-center text-sm text-muted-foreground border-t border-border/50 bg-background/60">
         © {currentYear}{' '}
         <a
-          href="https://antonylu.github.io/antonylu/"
+          href="https://antonylu.github.io/"
           className="text-primary hover:text-primary/80 transition-colors"
           target="_blank"
           rel="noopener noreferrer"
